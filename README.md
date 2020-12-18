@@ -14,4 +14,4 @@ The dataset we are going to use is the Movie dataset from Kaggle which contains 
 ## WebApp
 * If you want to view the deployed model, click on the following link : http://movierecommendation-env.eba-gmtpxtbf.us-east-2.elasticbeanstalk.com/
 
-* If you are searching for Code, Algorithms, how i done text processing, data cleaning, which similarity metrics I used Please Open "Movie Recommendation System.ipynb" file
+* If you are searching for Code, Algorithms, Which similarity metrics I used and much more Please Open "Movie Recommendation System.ipynb" file
