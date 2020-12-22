@@ -23,5 +23,5 @@ The dataset we are going to use is the Movie dataset from Kaggle which contains 
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
 <p align="center">
-  <img src="git-image.jpg" alt="Italian Trulli">
+  <img src="2.jpg" alt="Italian Trulli">
 </p>
