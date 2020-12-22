@@ -24,5 +24,5 @@ The dataset we are going to use is the Movie dataset from Kaggle which contains 
 
 
 <p align="center">
-  <img src="http://movierecommendation-env.eba-gmtpxtbf.us-east-2.elasticbeanstalk.com/static/home.gif" alt="Italian Trulli">
+  <img src="movie-recommendation.jpg" alt="Italian Trulli">
 </p>
