@@ -22,7 +22,7 @@ The dataset we are going to use is the Movie dataset from Kaggle which contains 
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
-
+<h2>Animated Images</h2>
 <p align="center">
   <img src="movie-recommendation.jpg" alt="Italian Trulli">
 </p>
