@@ -17,7 +17,7 @@ The dataset we are going to use is the Movie dataset from Kaggle which contains 
 * If you are searching for Code, Algorithms, Which similarity metrics I used and much more Please Open "Movie Recommendation System.ipynb" file
 
 <p align="center">
-  <img src="2.jpg" alt="Italian Trulli">
+  <img src="2.jpg" alt="Italian Trulli" class="center">
 </p>
 
 
