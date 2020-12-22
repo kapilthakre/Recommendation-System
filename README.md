@@ -16,12 +16,13 @@ The dataset we are going to use is the Movie dataset from Kaggle which contains 
 
 * If you are searching for Code, Algorithms, Which similarity metrics I used and much more Please Open "Movie Recommendation System.ipynb" file
 
+<p align="center">
+  <img src="2.jpg" alt="Italian Trulli">
+</p>
+
+
 ### Source of the dataset
 1. [The IMDB Movies Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 3. [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
-
-<p align="center">
-  <img src="2.jpg" alt="Italian Trulli">
-</p>
